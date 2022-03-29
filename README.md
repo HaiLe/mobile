@@ -23,7 +23,7 @@ Mobile Development
   - [How to start an Activity for Result]()
   - [Passing data between activities](https://developer.android.com/guide/components/activities/parcelables-and-bundles)
 
-### UI 
+### Topics  
 
 - [View Binding](https://developer.android.com/topic/libraries/view-binding)
 - [How to migrate existing Kotlin synthetics to view binding](https://developer.android.com/topic/libraries/view-binding/migration)
@@ -35,10 +35,12 @@ Mobile Development
   - [Swipe to Refresh](https://developer.android.com/training/swipe)
 - Animation 
   - [ViewPager2](https://developer.android.com/training/animation/screen-slide-2)
+- Video
+  - Exo Player
+    - [Exoplayer Codelab](https://developer.android.com/codelabs/exoplayer-intro#6)
 ### Jetpack Compose
+- [Jetpack Compose](https://developer.android.com/jetpack/compose)
 
-
-    
 ### Networking and Async 
 
 
