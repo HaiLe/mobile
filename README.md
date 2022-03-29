@@ -10,14 +10,12 @@ Mobile Development
 # Android 
 
 ### App Architecture 
-* [Guide to App Architecture](https://developer.android.com/jetpack/guide?gclid=CjwKCAjwuYWSBhByEiwAKd_n_jIvavjwqNrVc3FmBG1GxI26Xoa-2sTO7CX0mSVUElZn6r5safGGwRoCzPQQAvD_BwE&gclsrc=aw.ds)
-* [Modern Android App Architecture Course](https://developer.android.com/courses/pathways/android-architecture)
-
-* [Architecture Samples](https://github.com/android/architecture-samples)
-* [Domain Layer](https://developer.android.com/jetpack/guide/domain-layer)
-* [Data Layer](https://developer.android.com/jetpack/guide/data-layer)
-* 
-
+- [Guide to App Architecture](https://developer.android.com/jetpack/guide?gclid=CjwKCAjwuYWSBhByEiwAKd_n_jIvavjwqNrVc3FmBG1GxI26Xoa-2sTO7CX0mSVUElZn6r5safGGwRoCzPQQAvD_BwE&gclsrc=aw.ds)
+- [Modern Android App Architecture Course](https://developer.android.com/courses/pathways/android-architecture)
+- [Architecture Samples](https://github.com/android/architecture-samples)
+- [Domain Layer](https://developer.android.com/jetpack/guide/domain-layer)
+- [Data Layer](https://developer.android.com/jetpack/guide/data-layer)
+-
 ### App Components 
 
 * Activities
