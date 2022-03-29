@@ -43,10 +43,7 @@ Mobile Development
 
 ### Networking and Async 
 
-
-
 ### Database 
-
 
 ### Howto
 
