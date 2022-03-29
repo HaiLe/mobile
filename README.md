@@ -29,16 +29,10 @@ Mobile Development
 - [How to migrate existing Kotlin synthetics to view binding](https://developer.android.com/topic/libraries/view-binding/migration)
 - Pagination 
   - [Paging Library Overview](https://developer.android.com/topic/libraries/architecture/paging/v3-overview)
-  - 
-
 - RecyclerView
   - [Create a dynamic lists with RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview?gclid=CjwKCAjwuYWSBhByEiwAKd_n_oFYKdpd_jqz_1TyiIvQY0PjAmKI28biU5S74SFMLf7fJb6RDOQPphoCmS0QAvD_BwE&gclsrc=aw.ds)
   - [Advanced Customization](https://developer.android.com/guide/topics/ui/layout/recyclerview-custom)
-
   - [Swipe to Refresh](https://developer.android.com/training/swipe)
-  - 
-
-
 ### Jetpack Compose
 
 
