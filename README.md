@@ -33,6 +33,8 @@ Mobile Development
   - [Create a dynamic lists with RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview?gclid=CjwKCAjwuYWSBhByEiwAKd_n_oFYKdpd_jqz_1TyiIvQY0PjAmKI28biU5S74SFMLf7fJb6RDOQPphoCmS0QAvD_BwE&gclsrc=aw.ds)
   - [Advanced Customization](https://developer.android.com/guide/topics/ui/layout/recyclerview-custom)
   - [Swipe to Refresh](https://developer.android.com/training/swipe)
+- Animation 
+  - [ViewPager2](https://developer.android.com/training/animation/screen-slide-2)
 ### Jetpack Compose
 
 
