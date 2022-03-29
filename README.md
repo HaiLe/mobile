@@ -18,27 +18,25 @@ Mobile Development
 -
 ### App Components 
 
-* Activities
-  * [Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
-  * [How to start an Activity for Result]()
-  * [Passing data between activities](https://developer.android.com/guide/components/activities/parcelables-and-bundles)
-  * 
-* 
+- Activities
+  - [Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
+  - [How to start an Activity for Result]()
+  - [Passing data between activities](https://developer.android.com/guide/components/activities/parcelables-and-bundles)
 
 ### UI 
 
-* [View Binding](https://developer.android.com/topic/libraries/view-binding)
-* [How to migrate existing Kotlin synthetics to view binding](https://developer.android.com/topic/libraries/view-binding/migration)
-* Pagination 
-  * [Paging Library Overview](https://developer.android.com/topic/libraries/architecture/paging/v3-overview)
-  * 
+- [View Binding](https://developer.android.com/topic/libraries/view-binding)
+- [How to migrate existing Kotlin synthetics to view binding](https://developer.android.com/topic/libraries/view-binding/migration)
+- Pagination 
+  - [Paging Library Overview](https://developer.android.com/topic/libraries/architecture/paging/v3-overview)
+  - 
 
-* RecyclerView
-  * [Create a dynamic lists with RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview?gclid=CjwKCAjwuYWSBhByEiwAKd_n_oFYKdpd_jqz_1TyiIvQY0PjAmKI28biU5S74SFMLf7fJb6RDOQPphoCmS0QAvD_BwE&gclsrc=aw.ds)
-  * [Advanced Customization](https://developer.android.com/guide/topics/ui/layout/recyclerview-custom)
+- RecyclerView
+  - [Create a dynamic lists with RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview?gclid=CjwKCAjwuYWSBhByEiwAKd_n_oFYKdpd_jqz_1TyiIvQY0PjAmKI28biU5S74SFMLf7fJb6RDOQPphoCmS0QAvD_BwE&gclsrc=aw.ds)
+  - [Advanced Customization](https://developer.android.com/guide/topics/ui/layout/recyclerview-custom)
 
-* [Swipe to Refresh](https://developer.android.com/training/swipe)
-* 
+  - [Swipe to Refresh](https://developer.android.com/training/swipe)
+  - 
 
 
 ### Jetpack Compose
