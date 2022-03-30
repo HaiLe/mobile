@@ -44,6 +44,10 @@ Mobile Development
 
 ### Networking and Async 
 
+  * [Charles Proxy](https://www.charlesproxy.com/) to debug Android traffic
+    * [Setting up Charles Proxy for Android device](https://community.tealiumiq.com/t5/Tealium-for-Android/Setting-up-Charles-to-Proxy-your-Android-Device/ta-p/5121)
+    * [Using Charles Proxy to Debug Android SSL Traffic](https://hackupstate.medium.com/using-charles-proxy-to-debug-android-ssl-traffic-e61fc38760f7)
+
 ### Database 
 
 ### Howto
