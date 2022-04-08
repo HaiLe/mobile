@@ -39,6 +39,7 @@ Mobile Development
   - Exo Player
     - [Exoplayer Codelab](https://developer.android.com/codelabs/exoplayer-intro#6)
 - [Webview](https://developer.android.com/guide/webapps/webview)
+
 ### Jetpack Compose
 - [Jetpack Compose](https://developer.android.com/jetpack/compose)
 
@@ -47,6 +48,12 @@ Mobile Development
   * [Charles Proxy](https://www.charlesproxy.com/) to debug Android traffic
     * [Setting up Charles Proxy for Android device](https://community.tealiumiq.com/t5/Tealium-for-Android/Setting-up-Charles-to-Proxy-your-Android-Device/ta-p/5121)
     * [Using Charles Proxy to Debug Android SSL Traffic](https://hackupstate.medium.com/using-charles-proxy-to-debug-android-ssl-traffic-e61fc38760f7)
+
+### Data Layer 
+
+* [Enabling caching && offline support on Android using Room](https://proandroiddev.com/enabling-cache-offline-support-on-android-using-room-4b82ae0c9c88)
+* [Cache with Kotlin Coroutines](https://proandroiddev.com/caching-with-kotlin-coroutines-7d819276c820)
+* [CoroutinesCache](https://github.com/epam/CoroutinesCache)
 
 ### Database 
 
