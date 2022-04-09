@@ -48,6 +48,8 @@ Mobile Development
   * [Charles Proxy](https://www.charlesproxy.com/) to debug Android traffic
     * [Setting up Charles Proxy for Android device](https://community.tealiumiq.com/t5/Tealium-for-Android/Setting-up-Charles-to-Proxy-your-Android-Device/ta-p/5121)
     * [Using Charles Proxy to Debug Android SSL Traffic](https://hackupstate.medium.com/using-charles-proxy-to-debug-android-ssl-traffic-e61fc38760f7)
+    
+* [Sandwich - interface to handle network payload for Android](https://github.com/skydoves/sandwich)
 
 ### Data Layer 
 
@@ -55,8 +57,14 @@ Mobile Development
 * [Cache with Kotlin Coroutines](https://proandroiddev.com/caching-with-kotlin-coroutines-7d819276c820)
 * [CoroutinesCache](https://github.com/epam/CoroutinesCache)
 * [Android networking and database caching (MVVM+Retrofit+Room+Flow)](https://blog.devgenius.io/android-networking-and-database-caching-in-2020-mvvm-retrofit-room-flow-35b4f897d46a)
+* [Building for Billions](https://developer.android.com/docs/quality-guidelines/build-for-billions/connectivity)
 
 ### Database 
+
+### Dependency Injection
+* [Koin](https://github.com/InsertKoinIO/koin)
+  * [Koin Quickstart](https://insert-koin.io/docs/quickstart/kotlin)
+* [Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
 
 ### Howto
 
