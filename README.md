@@ -59,6 +59,8 @@ Mobile Development
 * [Android networking and database caching (MVVM+Retrofit+Room+Flow)](https://blog.devgenius.io/android-networking-and-database-caching-in-2020-mvvm-retrofit-room-flow-35b4f897d46a)
 * [Building for Billions](https://developer.android.com/docs/quality-guidelines/build-for-billions/connectivity)
 
+* [Retrofit Effective Error Handling](https://blog.canopas.com/retrofit-effective-error-handling-with-kotlin-coroutine-and-result-api-405217e9a73d)
+
 ### Database 
 
 ### Dependency Injection
